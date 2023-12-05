@@ -14,6 +14,7 @@ El archivo Venta-Videojuegos.pbix se abre con Power BI desktop.
 
 # Herramientas
 - Power BI
+- Excel
 
 # Autor
 - Nombre: Hernán Araya
