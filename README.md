@@ -17,6 +17,6 @@ El archivo Venta-Videojuegos.pbix se abre con Power BI desktop.
 
 # Autor
 - Nombre: Hernán Araya
-- Email: hernan.araya96@ooutlook.com
+- Email: hernan.araya96@outlook.com
 - Website: https://hdesarrollocr.com/ 
 
