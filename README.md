@@ -24,6 +24,7 @@ El archivo Venta-Videojuegos.pbix se abre con Power BI desktop.
 # Visualización del Dashboard
 ![Reporte de copias vendidas videojuegos](https://github.com/haraya/PowerBI-Dashboard-videojuegos/assets/58577750/7ea922d3-8e3f-4ba8-9b58-c57d8e97a895)
 
-
+# Video: 
+https://drive.google.com/file/d/1BzaJGHsN5jRDEWQ681bbGD17_Pc19JhL/view?usp=sharing
 
 
